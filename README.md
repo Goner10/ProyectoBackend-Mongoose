@@ -4,7 +4,7 @@
 Descripción 📋
 ---
 
-El proyecto consiste en una red social hecha con Node.js y MongoDB que muestra la funcionalidad completa de una red social.
+   El proyecto consiste en una red social hecha con Node.js y MongoDB que muestra la funcionalidad completa de una red social.
 La aplicación permite a los usuarios crear una cuenta, iniciar sesión, publicar contenido y realizar acciones comunes de una red social, como editar y eliminar publicaciones...
 <br>
 En general, el proyecto es una muestra sólida de habilidades de desarrollo web, incluyendo la capacidad de trabajar con tecnologías backend como Node.js y MongoDB
